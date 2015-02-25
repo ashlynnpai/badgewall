@@ -1,0 +1,20 @@
+html, body {
+  font-family: 'Roboto Slab', sans-serif;
+} 
+
+.wrapper {
+  max-width: 990px; 
+  margin: 0 auto;
+}
+
+li {
+ list-style: none; 
+}
+
+#h1-text {
+ text-align: center; 
+}  
+
+#treehouse-badges img{
+ width: 60px; 
+}
